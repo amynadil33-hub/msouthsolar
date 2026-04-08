@@ -354,9 +354,9 @@ const Contact: React.FC = () => {
                     <Phone className="w-5 h-5 text-[#00A896]" />
                     <span className="text-sm">+960 791 2865</span>
                   </a>
-                  <a href="mailto:info@msouthsolar.mv" className="flex items-center gap-3 text-gray-700 hover:text-[#00A896] transition-colors">
+                  <a href="mailto:info@msouthsolar.com" className="flex items-center gap-3 text-gray-700 hover:text-[#00A896] transition-colors">
                     <Mail className="w-5 h-5 text-[#00A896]" />
-                    <span className="text-sm">info@msouthsolar.mv</span>
+                    <span className="text-sm">info@msouthsolar.com</span>
                   </a>
                   <div className="flex items-center gap-3 text-gray-700">
                     <MapPin className="w-5 h-5 text-[#00A896]" />

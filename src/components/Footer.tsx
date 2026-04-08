@@ -63,8 +63,8 @@ const Footer: React.FC = () => {
               The dedicated solar energy brand associated with Blue Builders International. Delivering rooftop solar, hybrid systems, and long-term energy service across the Maldives.
             </p>
             <div className="space-y-3">
-              <a href="mailto:info@msouthsolar.mv" className="flex items-center gap-2 text-sm text-white/60 hover:text-[#00A896] transition-colors">
-                <Mail className="w-4 h-4" /> info@msouthsolar.mv
+              <a href="mailto:info@msouthsolar.com" className="flex items-center gap-2 text-sm text-white/60 hover:text-[#00A896] transition-colors">
+                <Mail className="w-4 h-4" /> info@msouthsolar.com
               </a>
               <a href="tel:+9607780000" className="flex items-center gap-2 text-sm text-white/60 hover:text-[#00A896] transition-colors">
                 <Phone className="w-4 h-4" /> +960 791 2865
